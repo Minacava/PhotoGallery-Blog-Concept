@@ -1,0 +1,36 @@
+.flex { 
+  display: flex;
+  flex-wrap: wrap;
+}  
+
+
+.jumbotron{
+    background-color: #0C6980;
+    color: white;
+    height: 180px; 
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+.navbar-inverse .navbar-toggle:focus, .navbar-inverse .navbar-toggle:hover 
+{
+    background-color: #2EB5E0;
+}
+
+.navbar-inverse .navbar-toggle {
+    border-color: #C4DBE0;
+}
+
+.navbar-inverse .navbar-nav > li > a:focus, .navbar-inverse .navbar-nav > li > a:hover {
+    color: #F9FEFB;
+   
+}
+.navbar-inverse{
+    background: #00A8A8;
+}
+.navbar-inverse .navbar-brand {
+    color:  #F9FEFB;
+}
+ .navbar-inverse .navbar-nav>li>a {
+    color:  #F9FEFB;
+}
